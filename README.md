@@ -2,6 +2,8 @@
 
 **Proje Özeti:** Bu proje, Telsiz Duyarga Ağlarında (WSN - Wireless Sensor Networks) fiziksel erişimin zor olduğu Nesnelerin İnterneti (IoT) düğümlerine güncel bir donanım yazılımı (firmware) imajının ağ üzerinden (Over-The-Air - OTA) kablosuz olarak aktarılması, doğrulanması ve kalıcı belleğe yazılması sürecini gerçeklemektedir.
 
+[Video Linki](https://www.youtube.com/watch?v=_OvW9PIOUig&feature=youtu.be)
+
 **Sistem Topolojisi ve Roller:**
 Ağ, 3 adet düğümden (node) oluşmaktadır:
 
